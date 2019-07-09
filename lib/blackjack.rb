@@ -40,9 +40,7 @@ def hit?(card_total)
 end
 
 def invalid_command
-  if user_input != 's' || 'h'
-  "Please enter a valid command"
-end
+
 end
 
 #####################################################
