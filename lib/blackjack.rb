@@ -38,7 +38,7 @@ def hit?(card_total)
     card_total += deal_card
   else
     "Please enter a valid command"
-    
+  end
 end
 
 def invalid_command
