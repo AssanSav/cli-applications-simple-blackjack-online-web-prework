@@ -29,7 +29,8 @@ def initial_round
   return round
 end
 
-def hit?
+def hit?(card_total)
+  
   # 
 end
 
